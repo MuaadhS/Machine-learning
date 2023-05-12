@@ -1,5 +1,3 @@
-Sure, here's a possible README file for the project:
-
 # Games Recommender System
 
 This is a machine learning project that aims to develop a games recommender system based on the IGN dataset. The system takes in the names of a user's favorite games and suggests new games that the user might enjoy based on similarities in game features and user scores.
